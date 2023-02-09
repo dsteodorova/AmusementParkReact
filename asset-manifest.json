@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AmusementParkReact/static/css/main.2d327331.css",
+    "main.js": "/AmusementParkReact/static/js/main.30f81115.js",
+    "static/js/787.6153aba0.chunk.js": "/AmusementParkReact/static/js/787.6153aba0.chunk.js",
+    "static/media/clouds.png": "/AmusementParkReact/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/fog-low.png": "/AmusementParkReact/static/media/fog-low.965eab52c95e117d1d45.png",
+    "static/media/331981,xcitefun-amusement-park-5.jpg": "/AmusementParkReact/static/media/331981,xcitefun-amusement-park-5.b2d7a19b3067f17aca6d.jpg",
+    "static/media/profile-page.png": "/AmusementParkReact/static/media/profile-page.3a626caf205d1143f192.png",
+    "static/media/landing-page.png": "/AmusementParkReact/static/media/landing-page.80158096b63fb4a837e1.png",
+    "static/media/nucleo-icons.eot": "/AmusementParkReact/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/AmusementParkReact/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/creative-tim-white-slim2.png": "/AmusementParkReact/static/media/creative-tim-white-slim2.dbb52a5d5ace9953ba5f.png",
+    "static/media/nucleo-icons.woff": "/AmusementParkReact/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/AmusementParkReact/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/logo.svg": "/AmusementParkReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AmusementParkReact/index.html",
+    "main.2d327331.css.map": "/AmusementParkReact/static/css/main.2d327331.css.map",
+    "main.30f81115.js.map": "/AmusementParkReact/static/js/main.30f81115.js.map",
+    "787.6153aba0.chunk.js.map": "/AmusementParkReact/static/js/787.6153aba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d327331.css",
+    "static/js/main.30f81115.js"
+  ]
+}
