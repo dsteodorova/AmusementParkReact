@@ -30,6 +30,8 @@ import {
     Nav,
     Container
 } from "reactstrap";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebookMessenger, faFacebookSquare } from '@fortawesome/free-brands-svg-icons'
 
 function IndexNavbar() {
     const [navbarColor, setNavbarColor] = React.useState("navbar-transparent");
@@ -98,7 +100,7 @@ function IndexNavbar() {
                                 target="_blank"
                                 title="Follow us on Twitter"
                             >
-                                <i className="fa fa-twitter" />
+                                <FontAwesomeIcon icon={faFacebookSquare} />
                                 <p className="d-lg-none">Twitter</p>
                             </NavLink>
                         </NavItem>
@@ -109,7 +111,7 @@ function IndexNavbar() {
                                 target="_blank"
                                 title="Like us on Facebook"
                             >
-                                <i className="fa fa-facebook-square" />
+                                <FontAwesomeIcon icon={faFacebookSquare} />
                                 <p className="d-lg-none">Facebook</p>
                             </NavLink>
                         </NavItem>
